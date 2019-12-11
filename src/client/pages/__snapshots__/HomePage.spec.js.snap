@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AldarContactCard render should render with all props 1`] = `ShallowWrapper {}`;
+
+exports[`AldarContactCard render should render with all props 2`] = `ShallowWrapper {}`;
